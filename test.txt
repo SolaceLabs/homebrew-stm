@@ -1,1 +1,0 @@
-Updated stm to 0.0.49
