@@ -6,7 +6,7 @@ class Stm < Formula
   license "Apache-2.0"
   
   def install
-    bin.install "stm-macos"
+    bin.install "stm-macos" => "stm"
   end
 
   test do
