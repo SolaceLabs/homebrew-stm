@@ -1,8 +1,8 @@
 class Stm < Formula
   desc "This is a command line tool to help you get started with Solace PubSub+ Event Broker"
   homepage "https://github.com/SolaceLabs/solace-tryme-cli"
-  url "https://github.com/SolaceLabs/solace-tryme-cli/releases/download/v0.0.52/stm-macos-v0.0.52.zip"
-  sha256 "642fd88e9616a8861cde64db5ca43b25c48d9addf198b0fbb86c5ce7ab02b000"
+  url "https://github.com/SolaceLabs/solace-tryme-cli/releases/download/v0.0.54/stm-macos-v0.0.54.zip"
+  sha256 "ff8823b3d86d0f68b40a51205fbc9b32b17b03b9d4838b0db8a649887c9371a3"
   license "Apache-2.0"
   
   def install
